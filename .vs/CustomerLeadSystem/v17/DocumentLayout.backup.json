@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tech sign\\Documents\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\services\\iimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|c:\\users\\tech sign\\documents\\projects\\customerleadapi\\models\\customerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7071876C-26EE-49EF-991F-F375F2ED4F49}|CustomerLeadApi\\CustomerLeadApi.csproj|solutionrelative:customerleadapi\\models\\customerimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\appsettings.Development.json",
+              "RelativeToolTip": "CustomerLeadApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T18:44:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\appsettings.json",
+              "RelativeToolTip": "CustomerLeadApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T18:44:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Program.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Program.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwv54AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:36:11.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:35:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAkwCoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:29:56.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Models\\Customer.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:27:25.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAxwFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:35:05.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:33:35.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\ImageService.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Services\\ImageService.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:32:50.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\IImageService.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Services\\IImageService.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\IImageService.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Services\\IImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:32:32.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:31:31.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Services\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:30:56.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\DTOs\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\DTOs\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\DTOs\\CustomerDto.cs",
+              "RelativeToolTip": "CustomerLeadApi\\DTOs\\CustomerDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:28:59.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerImage.cs",
+              "DocumentMoniker": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Models\\CustomerImage.cs",
+              "RelativeDocumentMoniker": "CustomerLeadApi\\Models\\CustomerImage.cs",
+              "ToolTip": "C:\\Users\\Tech sign\\Documents\\Projects\\CustomerLeadApi\\Models\\CustomerImage.cs",
+              "RelativeToolTip": "CustomerLeadApi\\Models\\CustomerImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T18:28:06.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
